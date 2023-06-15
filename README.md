@@ -1,1 +1,1 @@
-# java-continuous-integration-and-delivery-with-aws
+# Java Continuous Integration and Delivery with AWS
